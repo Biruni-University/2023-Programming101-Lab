@@ -29,7 +29,7 @@ public class Main {
 Maya Wants to show her friends the new thing that she learnt in the
 programming. help her to print this statement using escape characters.
 
-```
+``` bash
    *
   ***
  *****
