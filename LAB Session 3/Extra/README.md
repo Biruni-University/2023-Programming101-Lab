@@ -11,13 +11,13 @@
 3.  Create a program that generates a random integer between 0 and 50
     using Math.random().
 -------------------------------
-1.  With the help of `java.lang.System.currentTimeMillis()` create a
+4.  With the help of `java.lang.System.currentTimeMillis()` create a
     program that shows the current time of the day in 24 hours format.  
       
     * The `java.lang.System.currentTimeMillis()` method returns the
     current time in milliseconds.
 -------------------------------
-1.  We have a code snippet. Find the error and explain why it’s
+5.  We have a code snippet. Find the error and explain why it’s
     happening and how to fix it!
     
 ``` java
