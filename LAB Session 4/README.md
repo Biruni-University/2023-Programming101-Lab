@@ -143,8 +143,9 @@ will read the key from the keyboard and then ask for a character’s ASCII
 number to encrypt. After encryption, you print the encrypted character
 and then you decrypt it back.
 
-<img src="./fig1.png" style="width:3.93889in;height:5.34444in" />As
-a complement, we will give you a table of ASCII characters.
+<img src="./fig1.png" style="width:3.93889in;height:5.34444in" />
+
+As a complement, we will give you a table of ASCII characters.
 
 The Input/Output sample:
 
